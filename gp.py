@@ -23,5 +23,5 @@ while True:
         print("Pin OFF")
         sleep(TIME_DELAY)
     except KeyboardInterrupt as e:
-        print(f"Quiting...")
+        print(f"Quitting...")
         break

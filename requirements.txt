@@ -1,0 +1,2 @@
+langchain_ollama==0.2.1
+rpi_lgpio==0.6
